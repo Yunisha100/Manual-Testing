@@ -18,7 +18,7 @@ Execution: Each test case was executed manually, and the results were documented
 
 Reporting: Bugs and issues were logged, with details on severity and reproduction steps.
 
-API Testing
+## API Testing
 
 Objective: To verify the API endpoints and ensure they return correct responses under various conditions.
 
